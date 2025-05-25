@@ -3,7 +3,7 @@
 # This list blocks the main domains used by Roblox games and services.
 # Add this list to your Pi-hole Adlists section to block Roblox on all devices.
 #
-# Maintained by: [Your Name or GitHub Username]
+# Maintained by: [Greg]
 # Last updated: 2025-05-25
 #
 # -- Main Roblox domains --
