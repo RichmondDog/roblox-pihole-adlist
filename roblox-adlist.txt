@@ -1,0 +1,56 @@
+# Roblox Blocklist for Pi-hole
+# ===========================
+# This list blocks the main domains used by Roblox games and services.
+# Add this list to your Pi-hole Adlists section to block Roblox on all devices.
+#
+# Maintained by: [Your Name or GitHub Username]
+# Last updated: 2025-05-25
+#
+# -- Main Roblox domains --
+roblox.com
+www.roblox.com
+
+# -- Roblox CDN (content delivery network) --
+rbxcdn.com
+www.rbxcdn.com
+
+# -- Roblox API and service endpoints --
+api.roblox.com
+setup.roblox.com
+friends.roblox.com
+presence.roblox.com
+economy.roblox.com
+avatar.roblox.com
+auth.roblox.com
+chat.roblox.com
+groups.roblox.com
+accountsettings.roblox.com
+notifications.roblox.com
+thumbnails.roblox.com
+games.roblox.com
+ephemeralcounters.roblox.com
+realtime.roblox.com
+abtesting.roblox.com
+metrics.roblox.com
+status.roblox.com
+clientsettings.roblox.com
+locale.roblox.com
+users.roblox.com
+gamepersistence.roblox.com
+badges.roblox.com
+develop.roblox.com
+inventory.roblox.com
+share.roblox.com
+voice.roblox.com
+contacts.roblox.com
+
+# -- Other Roblox-related domains --
+rbxapi.com
+www.rbxapi.com
+rbxtrk.com
+www.rbxtrk.com
+roblox.gg
+roblox.plus
+
+# End of list
+
